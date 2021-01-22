@@ -1,0 +1,13 @@
+C:\Users\Bahri\source\repos\YazilimciKursu\AddMethod\bin\Debug\netcoreapp3.1\AddMethod.exe
+C:\Users\Bahri\source\repos\YazilimciKursu\AddMethod\bin\Debug\netcoreapp3.1\AddMethod.deps.json
+C:\Users\Bahri\source\repos\YazilimciKursu\AddMethod\bin\Debug\netcoreapp3.1\AddMethod.runtimeconfig.json
+C:\Users\Bahri\source\repos\YazilimciKursu\AddMethod\bin\Debug\netcoreapp3.1\AddMethod.runtimeconfig.dev.json
+C:\Users\Bahri\source\repos\YazilimciKursu\AddMethod\bin\Debug\netcoreapp3.1\AddMethod.dll
+C:\Users\Bahri\source\repos\YazilimciKursu\AddMethod\bin\Debug\netcoreapp3.1\AddMethod.pdb
+C:\Users\Bahri\source\repos\YazilimciKursu\AddMethod\obj\Debug\netcoreapp3.1\AddMethod.csprojAssemblyReference.cache
+C:\Users\Bahri\source\repos\YazilimciKursu\AddMethod\obj\Debug\netcoreapp3.1\AddMethod.AssemblyInfoInputs.cache
+C:\Users\Bahri\source\repos\YazilimciKursu\AddMethod\obj\Debug\netcoreapp3.1\AddMethod.AssemblyInfo.cs
+C:\Users\Bahri\source\repos\YazilimciKursu\AddMethod\obj\Debug\netcoreapp3.1\AddMethod.csproj.CoreCompileInputs.cache
+C:\Users\Bahri\source\repos\YazilimciKursu\AddMethod\obj\Debug\netcoreapp3.1\AddMethod.dll
+C:\Users\Bahri\source\repos\YazilimciKursu\AddMethod\obj\Debug\netcoreapp3.1\AddMethod.pdb
+C:\Users\Bahri\source\repos\YazilimciKursu\AddMethod\obj\Debug\netcoreapp3.1\AddMethod.genruntimeconfig.cache
