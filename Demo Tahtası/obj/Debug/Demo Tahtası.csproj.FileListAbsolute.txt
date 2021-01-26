@@ -1,0 +1,10 @@
+C:\Users\Bahri\source\repos\YazilimciKursu\Demo Tahtası\bin\Debug\Demo Tahtası.exe.config
+C:\Users\Bahri\source\repos\YazilimciKursu\Demo Tahtası\bin\Debug\Demo Tahtası.exe
+C:\Users\Bahri\source\repos\YazilimciKursu\Demo Tahtası\bin\Debug\Demo Tahtası.pdb
+C:\Users\Bahri\source\repos\YazilimciKursu\Demo Tahtası\obj\Debug\Demo Tahtası.csprojAssemblyReference.cache
+C:\Users\Bahri\source\repos\YazilimciKursu\Demo Tahtası\obj\Debug\Demo_Tahtası.Form1.resources
+C:\Users\Bahri\source\repos\YazilimciKursu\Demo Tahtası\obj\Debug\Demo_Tahtası.Properties.Resources.resources
+C:\Users\Bahri\source\repos\YazilimciKursu\Demo Tahtası\obj\Debug\Demo Tahtası.csproj.GenerateResource.cache
+C:\Users\Bahri\source\repos\YazilimciKursu\Demo Tahtası\obj\Debug\Demo Tahtası.csproj.CoreCompileInputs.cache
+C:\Users\Bahri\source\repos\YazilimciKursu\Demo Tahtası\obj\Debug\Demo Tahtası.exe
+C:\Users\Bahri\source\repos\YazilimciKursu\Demo Tahtası\obj\Debug\Demo Tahtası.pdb
