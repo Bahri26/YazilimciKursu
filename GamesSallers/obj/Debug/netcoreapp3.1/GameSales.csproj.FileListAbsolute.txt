@@ -1,0 +1,3 @@
+C:\Users\Bahri\OneDrive\Masaüstü\Bahri KOÇ\Dersler\Programlama\Yazılımcı Geliştirme Programı\YazilimciKursu\E-Devlet Uygulaması\obj\Debug\netcoreapp3.1\GameSales.AssemblyInfoInputs.cache
+C:\Users\Bahri\OneDrive\Masaüstü\Bahri KOÇ\Dersler\Programlama\Yazılımcı Geliştirme Programı\YazilimciKursu\E-Devlet Uygulaması\obj\Debug\netcoreapp3.1\GameSales.AssemblyInfo.cs
+C:\Users\Bahri\OneDrive\Masaüstü\Bahri KOÇ\Dersler\Programlama\Yazılımcı Geliştirme Programı\YazilimciKursu\E-Devlet Uygulaması\obj\Debug\netcoreapp3.1\GameSales.csproj.CoreCompileInputs.cache
